@@ -1,0 +1,598 @@
+[
+    {
+        "frase": "\u201cBe yourself; everyone else is already taken.\u201d",
+        "autor": "OSCAR WILDE",
+        "tags": "attributed-no-source;be-yourself;gilbert-perreira;honesty;inspirational;misattributed-oscar-wilde;quote-investigator"
+    },
+    {
+        "frase": "\u201cI'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.\u201d",
+        "autor": "MARILYN MONROE",
+        "tags": "attributed-no-source;best;life;love;mistakes;out-of-control;truth;worst"
+    },
+    {
+        "frase": "\u201cTwo things are infinite: the universe and human stupidity; and I'm not sure about the universe.\u201d",
+        "autor": "ALBERT EINSTEIN",
+        "tags": "attributed-no-source;human-nature;humor;infinity;philosophy;science;stupidity;universe"
+    },
+    {
+        "frase": "\u201cSo many books, so little time.\u201d",
+        "autor": "FRANK ZAPPA",
+        "tags": "books;humor"
+    },
+    {
+        "frase": "\u201cA room without books is like a body without a soul.\u201d",
+        "autor": "MARCUS TULLIUS CICERO",
+        "tags": "attributed-no-source;books;simile;soul"
+    },
+    {
+        "frase": "\u201cBe who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.\u201d",
+        "autor": "BERNARD M. BARUCH",
+        "tags": "ataraxy;be-yourself;confidence;fitting-in;individuality;misattributed-dr-seuss;those-who-matter"
+    },
+    {
+        "frase": "\u201cYou've gotta dance like there's nobody watching,",
+        "autor": "WILLIAM W. PURKEY",
+        "tags": "dance;heaven;hurt;inspirational;life;love;sing"
+    },
+    {
+        "frase": "\u201cYou know you're in love when you can't fall asleep because reality is finally better than your dreams.\u201d",
+        "autor": "DR. SEUSS",
+        "tags": "attributed-no-source;dreams;love;reality;sleep"
+    },
+    {
+        "frase": "\u201cYou only live once, but if you do it right, once is enough.\u201d",
+        "autor": "MAE WEST",
+        "tags": "humor;life"
+    },
+    {
+        "frase": "\u201cBe the change that you wish to see in the world.\u201d",
+        "autor": "MAHATMA GANDHI",
+        "tags": "action;change;inspirational;philosophy;wish"
+    },
+    {
+        "frase": "\u201cIn three words I can sum up everything I've learned about life: it goes on.\u201d",
+        "autor": "ROBERT FROST",
+        "tags": "life"
+    },
+    {
+        "frase": "\u201cIf you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.\u201d",
+        "autor": "J.K. ROWLING,",
+        "tags": "from-charles-bayard-mitchell"
+    },
+    {
+        "frase": "\u201cDont walk in front of me\u2026 I may not follow",
+        "autor": "ALBERT CAMUS",
+        "tags": "attributed-no-source;friends;friendship;misattributed-albert-camus"
+    },
+    {
+        "frase": "\u201cIf you tell the truth, you don't have to remember anything.\u201d",
+        "autor": "MARK TWAIN",
+        "tags": "lies;lying;memory;truth"
+    },
+    {
+        "frase": "\u201cFriendship ... is born at the moment when one man says to another \"What! You too? I thought that no one but myself . . .\u201d",
+        "autor": "C.S. LEWIS,",
+        "tags": "friendship"
+    },
+    {
+        "frase": "\u201cI've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.\u201d",
+        "autor": "MAYA ANGELOU"
+    },
+    {
+        "frase": "\u201cA friend is someone who knows all about you and still loves you.\u201d",
+        "autor": "ELBERT HUBBARD",
+        "tags": "friend;friendship;knowledge;love"
+    },
+    {
+        "frase": "\u201cTo live is the rarest thing in the world. Most people exist, that is all.\u201d",
+        "autor": "OSCAR WILDE",
+        "tags": "life"
+    },
+    {
+        "frase": "\u201cAlways forgive your enemies; nothing annoys them so much.\u201d",
+        "autor": "OSCAR WILDE",
+        "tags": "attributed-no-source;enemies;forgiveness;strategy"
+    },
+    {
+        "frase": "\u201cLive as if you were to die tomorrow. Learn as if you were to live forever.\u201d",
+        "autor": "MAHATMA GANDHI",
+        "tags": "carpe-diem;education;inspirational;learning"
+    },
+    {
+        "frase": "\u201cDarkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.\u201d",
+        "autor": "MARTIN LUTHER KING JR.,",
+        "tags": "darkness;drive-out;hate;inspirational;light;love;peace"
+    },
+    {
+        "frase": "\u201cWe accept the love we think we deserve.\u201d",
+        "autor": "STEPHEN CHBOSKY,",
+        "tags": "inspirational;love"
+    },
+    {
+        "frase": "\u201cWithout music, life would be a mistake.\u201d",
+        "autor": "FRIEDRICH NIETZSCHE,",
+        "tags": "inspirational;music;philosophy"
+    },
+    {
+        "frase": "\u201cI am so clever that sometimes I don't understand a single word of what I am saying.\u201d",
+        "autor": "OSCAR WILDE,",
+        "tags": "intelligence;self-deprecation"
+    },
+    {
+        "frase": "\u201cTo be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.\u201d",
+        "autor": "RALPH WALDO EMERSON",
+        "tags": "accomplishment;attributed-no-source;be-yourself;conformity;individuality"
+    },
+    {
+        "frase": "\u201cHere's to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They're not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can't do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do.\u201d",
+        "autor": "ROB SILTANEN",
+        "tags": "advertising;apple;change;commercial;computers;different;madness;misattributed-apple;misattributed-steve-jobs;misfits;nonconformity;progressive;rebels;status-quo;think-different;troublemakers"
+    },
+    {
+        "frase": "\u201cInsanity is doing the same thing, over and over again, but expecting different results.\u201d",
+        "autor": "NARCOTICS ANONYMOUS",
+        "tags": "humor;insanity;life;misattributed-ben-franklin;misattributed-mark-twain;misattributed-to-einstein"
+    },
+    {
+        "frase": "\u201cI believe that everything happens for a reason. People change so that you can learn to let go, things go wrong so that you appreciate them when they're right, you believe lies so you eventually learn to trust no one but yourself, and sometimes good things fall apart so better things can fall together.\u201d",
+        "autor": "MARILYN MONROE",
+        "tags": "attributed-no-source;misattributed-marilyn-monroe"
+    },
+    {
+        "frase": "\u201cIt is better to be hated for what you are than to be loved for what you are not.\u201d",
+        "autor": "ANDRE GIDE,",
+        "tags": "life;love"
+    },
+    {
+        "frase": "\u201cTwenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.\u201d",
+        "autor": "H. JACKSON BROWN JR.,",
+        "tags": "actions;disappointed;disappointment;dream;dreams;explore;misattributed-mark-twain;sail"
+    },
+    {
+        "frase": "\u201cOnly once in your life, I truly believe, you find someone who can completely turn your world around. You tell them things that youve never shared with another soul and they absorb everything you say and actually want to hear more. You share hopes for the future, dreams that will never come true, goals that were never achieved and the many disappointments life has thrown at you. When something wonderful happens, you cant wait to tell them about it, knowing they will share in your excitement. They are not embarrassed to cry with you when you are hurting or laugh with you when you make a fool of yourself. Never do they hurt your feelings or make you feel like you are not good enough, but rather they build you up and show you the things about yourself that make you special and even beautiful. There is never any pressure, jealousy or competition but only a quiet calmness when they are around. You can be yourself and not worry about what they will think of you because they love you for who you are. The things that seem insignificant to most people such as a note, song or walk become invaluable treasures kept safe in your heart to cherish forever. Memories of your childhood come back and are so clear and vivid its like being young again. Colours seem brighter and more brilliant. Laughter seems part of daily life where before it was infrequent or didnt exist at all. A phone call or two during the day helps to get you through a long days work and always brings a smile to your face. In their presence, theres no need for continuous conversation, but you find youre quite content in just having them nearby. Things that never interested you before become fascinating because you know they are important to this person who is so special to you. You think of this person on every occasion and in everything you do. Simple things bring them to mind like a pale blue sky, gentle wind or even a storm cloud on the horizon. You open your heart knowing that theres a chance it may be broken one day and in opening your heart, you experience a love and joy that you never dreamed possible. You find that being vulnerable is the only way to allow your heart to feel true pleasure thats so real it scares you. You find strength in knowing you have a true friend and possibly a soul mate who will remain loyal to the end. Life seems completely different, exciting and worthwhile. Your only hope and security is in knowing that they are a part of your life.\u201d",
+        "autor": "BOB MARLEY",
+        "tags": "love"
+    },
+    {
+        "frase": "\u201cAll that is gold does not glitter,",
+        "autor": "J.R.R. TOLKIEN,",
+        "tags": "frost;glitter;gold;lost;poetry;roots;strength;strong;wander;wither"
+    },
+    {
+        "frase": "\u201cIt is our choices, Harry, that show what we truly are, far more than our abilities.\u201d",
+        "autor": "J.K. ROWLING,",
+        "tags": "abilities;choices"
+    },
+    {
+        "frase": "\u201cThe person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.\u201d",
+        "autor": "JANE AUSTEN,",
+        "tags": "aliteracy;books;classic;humor"
+    },
+    {
+        "frase": "\u201cImperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.\u201d",
+        "autor": "MARILYN MONROE",
+        "tags": "attributed-no-source;be-yourself;inspirational"
+    },
+    {
+        "frase": "\u201cThere are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.\u201d",
+        "autor": "ALBERT EINSTEIN",
+        "tags": "attributed-no-source;inspirational;life;live;miracle;miracles"
+    },
+    {
+        "frase": "\u201cIt does not do to dwell on dreams and forget to live.\u201d",
+        "autor": "J.K. ROWLING,",
+        "tags": "dreams;life"
+    },
+    {
+        "frase": "\u201cGood friends, good books, and a sleepy conscience: this is the ideal life.\u201d",
+        "autor": "MARK TWAIN",
+        "tags": "books;contentment;friends;friendship;life"
+    },
+    {
+        "frase": "\u201cAs he read, I fell in love the way you fall asleep: slowly, and then all at once.\u201d",
+        "autor": "JOHN GREEN,",
+        "tags": "love"
+    },
+    {
+        "frase": "\u201cWe are all in the gutter, but some of us are looking at the stars.\u201d",
+        "autor": "OSCAR WILDE,",
+        "tags": "inspirational;optimism;perception;pessimism"
+    },
+    {
+        "frase": "\u201cFairy tales are more than true: not because they tell us that dragons exist, but because they tell us that dragons can be beaten.\u201d",
+        "autor": "NEIL GAIMAN,",
+        "tags": "books;dragons;fairy-tales;inspirational;paraphrasing-g-k-chesterton"
+    },
+    {
+        "frase": "\u201cThe fool doth think he is wise, but the wise man knows himself to be a fool.\u201d",
+        "autor": "WILLIAM SHAKESPEARE,",
+        "tags": "wisdom"
+    },
+    {
+        "frase": "\u201cIt is better to remain silent at the risk of being thought a fool, than to talk and remove all doubt of it.\u201d",
+        "autor": "MAURICE SWITZER,",
+        "tags": "misattributed-to-abraham-lincoln;misattributed-to-mark-twain;remaining-silent;wisdom"
+    },
+    {
+        "frase": "\u201cWhenever you find yourself on the side of the majority, it is time to reform (or pause and reflect).\u201d",
+        "autor": "MARK TWAIN",
+        "tags": "individuality;majority;minority;pause;reflect;wisdom"
+    },
+    {
+        "frase": "\u201cLife is what happens to us while we are making other plans.\u201d",
+        "autor": "ALLEN SAUNDERS",
+        "tags": "fate;life;misattributed-john-lennon;planning;plans"
+    },
+    {
+        "frase": "\u201cYesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.\u201d",
+        "autor": "BILL KEANE",
+        "tags": "attributed-no-source;hope;inspirational;misattributed-eleanor-roosevelt;past;present;widely-misattributed"
+    },
+    {
+        "frase": "\u201cI have not failed. I've just found 10,000 ways that won't work.\u201d",
+        "autor": "THOMAS A. EDISON",
+        "tags": "edison;failure;inspirational;paraphrased"
+    },
+    {
+        "frase": "\u201cIt is not a lack of love, but a lack of friendship that makes unhappy marriages.\u201d",
+        "autor": "FRIEDRICH NIETZSCHE",
+        "tags": "friendship;lack-of-friendship;lack-of-love;love;marriage;unhappy-marriage"
+    },
+    {
+        "frase": "\u201cThe opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.\u201d",
+        "autor": "ELIE WIESEL",
+        "tags": "activism;apathy;hate;indifference;inspirational;love;opposite;philosophy"
+    },
+    {
+        "frase": "\u201cA woman is like a tea bag; you never know how strong it is until it's in hot water.\u201d",
+        "autor": "ELEANOR ROOSEVELT",
+        "tags": "attributed-no-source;misattributed-eleanor-roosevelt"
+    },
+    {
+        "frase": "\u201cThe man who does not read has no advantage over the man who cannot read.\u201d",
+        "autor": "MARK TWAIN",
+        "tags": "aliteracy;attributed-no-source;literacy"
+    },
+    {
+        "frase": "\u201cI may not have gone where I intended to go, but I think I have ended up where I needed to be.\u201d",
+        "autor": "DOUGLAS ADAMS,",
+        "tags": "life;navigation"
+    },
+    {
+        "frase": "\u201cIf you don't stand for something you will fall for anything.\u201d",
+        "autor": "GORDON A. EADIE",
+        "tags": "belief;integrity;misattributed-to-malcolm-x;misattributed-to-rosa-parks"
+    },
+    {
+        "frase": "\u201cI love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.\u201d",
+        "autor": "PABLO NERUDA,",
+        "tags": "love;poetry"
+    },
+    {
+        "frase": "\u201cI solemnly swear that I am up to no good.\u201d",
+        "autor": "J.K. ROWLING,",
+        "tags": "mischief"
+    },
+    {
+        "frase": "\u201cOutside of a dog, a book is man's best friend. Inside of a dog it's too dark to read.\u201d",
+        "autor": "GROUCHO MARX,",
+        "tags": "animals;books;dogs;friends;humor"
+    },
+    {
+        "frase": "\u201cI am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.\u201d",
+        "autor": "ALBERT EINSTEIN",
+        "tags": "1929;imagination;inspirational;viereck-interview"
+    },
+    {
+        "frase": "\u201cLove all, trust a few, do wrong to none.\u201d",
+        "autor": "WILLIAM SHAKESPEARE,",
+        "tags": "do-wrong;love;trust;wrong"
+    },
+    {
+        "frase": "\u201cI like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.\u201d",
+        "autor": "DR. SEUSS",
+        "tags": "fantasy"
+    },
+    {
+        "frase": "\u201cHave you ever been in love? Horrible isn't it? It makes you so vulnerable. It opens your chest and it opens up your heart and it means that someone can get inside you and mess you up.\u201d",
+        "autor": "NEIL GAIMAN,",
+        "tags": "love"
+    },
+    {
+        "frase": "\u201cA day without sunshine is like, you know, night.\u201d",
+        "autor": "STEVE MARTIN",
+        "tags": "humor;obvious;simile"
+    },
+    {
+        "frase": "\u201cA reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.\u201d",
+        "autor": "GEORGE R.R. MARTIN,",
+        "tags": "read;readers;reading;reading-books"
+    },
+    {
+        "frase": "\u201cNever put off till tomorrow what may be done day after tomorrow just as well.\u201d",
+        "autor": "MARK TWAIN",
+        "tags": "humor;procrastination"
+    },
+    {
+        "frase": "\u201c",
+        "autor": "KENT M. KEITH,",
+        "tags": "forgiveness;goodness;happiness;honesty;kindness;misattributed-to-mother-teresa;world"
+    },
+    {
+        "frase": "\u201cBeing deeply loved by someone gives you strength, while loving someone deeply gives you courage.\u201d",
+        "autor": "LAO TZU",
+        "tags": "courage;deeply-loved;love;strength;widely-misattributed"
+    },
+    {
+        "frase": "\u201cYou have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You're on your own. And you know what you know. And YOU are the one who'll decide where to go...\u201d",
+        "autor": "DR. SEUSS,",
+        "tags": "inspirational"
+    },
+    {
+        "frase": "\u201cThat which does not kill us makes us stronger.\u201d",
+        "autor": "FRIEDRICH NIETZSCHE",
+        "tags": "paraphrased;strength"
+    },
+    {
+        "frase": "\u201cIt is never too late to be what you might have been.\u201d",
+        "autor": "GEORGE ELIOT",
+        "tags": "inspirational;source-unknown"
+    },
+    {
+        "frase": "\u201cFor every minute you are angry you lose sixty seconds of happiness.\u201d",
+        "autor": "RALPH WALDO EMERSON",
+        "tags": "happiness"
+    },
+    {
+        "frase": "\u201cIt takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.\u201d",
+        "autor": "J.K. ROWLING,",
+        "tags": "albus-dumbledore;courage;friends"
+    },
+    {
+        "frase": "\u201cThis life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.\u201d",
+        "autor": "MARILYN MONROE",
+        "tags": "attributed-no-source;friends;heartbreak;inspirational;life;love;sisters"
+    },
+    {
+        "frase": "\u201cI love deadlines. I love the whooshing noise they make as they go by.\u201d",
+        "autor": "DOUGLAS ADAMS,",
+        "tags": "deadlines;humor;humour;work;writing"
+    },
+    {
+        "frase": "\u201cIf you judge people, you have no time to love them.\u201d",
+        "autor": "MOTHER TERESA",
+        "tags": "attributed-no-source"
+    },
+    {
+        "frase": "\u201cThere is never a time or place for true love. It happens accidentally, in a heartbeat, in a single flashing, throbbing moment.\u201d",
+        "autor": "SARAH DESSEN,",
+        "tags": "love"
+    },
+    {
+        "frase": "\u201cIf you can't explain it to a six year old, you don't understand it yourself.\u201d",
+        "autor": "ALBERT EINSTEIN",
+        "tags": "attributed-no-source;simplicity;understand"
+    },
+    {
+        "frase": "\u201cI'm not upset that you lied to me, I'm upset that from now on I can't believe you.\u201d",
+        "autor": "FRIEDRICH NIETZSCHE",
+        "tags": "lies;lying;trust"
+    },
+    {
+        "frase": "\u201cThere is no greater agony than bearing an untold story inside you.\u201d",
+        "autor": "MAYA ANGELOU,",
+        "tags": "1970;inspirational;stories;writing"
+    },
+    {
+        "frase": "\u201cLove is that condition in which the happiness of another person is essential to your own.\u201d",
+        "autor": "ROBERT A. HEINLEIN,",
+        "tags": "essential;happiness;love"
+    },
+    {
+        "frase": "\u201cIf you only read the books that everyone else is reading, you can only think what everyone else is thinking.\u201d",
+        "autor": "HARUKI MURAKAMI,",
+        "tags": "books;thought"
+    },
+    {
+        "frase": "\u201cAnyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car.\u201d",
+        "autor": "GARRISON KEILLOR",
+        "tags": "humor;religion"
+    },
+    {
+        "frase": "\u201cI have always imagined that Paradise will be a kind of library.\u201d",
+        "autor": "JORGE LUIS BORGES",
+        "tags": "books;library"
+    },
+    {
+        "frase": "\u201cEverything you can imagine is real.\u201d",
+        "autor": "PABLO PICASSO",
+        "tags": "art;imagination;inspirational;life"
+    },
+    {
+        "frase": "\u201cWomen and cats will do as they please, and men and dogs should relax and get used to the idea.\u201d",
+        "autor": "ROBERT A. HEINLEIN",
+        "tags": "cats;humor;women"
+    },
+    {
+        "frase": "\u201cWe don't see things as they are, we see them as we are.\u201d",
+        "autor": "ANA\u00cfS NIN"
+    },
+    {
+        "frase": "\u201cYou may not be her first, her last, or her only. She loved before she may love again. But if she loves you now, what else matters? She's not perfect\u2014you aren't either, and the two of you may never be perfect together but if she can make you laugh, cause you to think twice, and admit to being human and making mistakes, hold onto her and give her the most you can. She may not be thinking about you every second of the day, but she will give you a part of her that she knows you can break\u2014her heart. So don't hurt her, don't change her, don't analyze and don't expect more than she can give. Smile when she makes you happy, let her know when she makes you mad, and miss her when she's not there.\u201d",
+        "autor": "BOB MARLEY",
+        "tags": "love"
+    },
+    {
+        "frase": "\u201cSometimes the questions are complicated and the answers are simple.\u201d",
+        "autor": "DR. SEUSS",
+        "tags": "attributed-no-source;life"
+    },
+    {
+        "frase": "\u201cNever trust anyone who has not brought a book with them.\u201d",
+        "autor": "LEMONY SNICKET,",
+        "tags": "books;reading"
+    },
+    {
+        "frase": "\u201cYou love me. Real or not real?\"",
+        "autor": "SUZANNE COLLINS,",
+        "tags": "katniss;love;peeta;suzanne-collins;the-hunger-games"
+    },
+    {
+        "frase": "\u201cYou can never get a cup of tea large enough or a book long enough to suit me.\u201d",
+        "autor": "C.S. LEWIS",
+        "tags": "books;inspirational;reading;tea"
+    },
+    {
+        "frase": "\u201cWe read to know we're not alone.\u201d",
+        "autor": "WILLIAM NICHOLSON,",
+        "tags": "misattributed-to-c-s-lewis;reading"
+    },
+    {
+        "frase": "\u201cSometimes, you read a book and it fills you with this weird evangelical zeal, and you become convinced that the shattered world will never be put back together unless and until all living humans read the book.\u201d",
+        "autor": "JOHN GREEN,",
+        "tags": "books;power-of-words;reading"
+    },
+    {
+        "frase": "\u201cAll you need is love. But a little chocolate now and then doesn't hurt.\u201d",
+        "autor": "CHARLES M. SCHULZ",
+        "tags": "chocolate;food;humor"
+    },
+    {
+        "frase": "\u201cOf course it is happening inside your head, Harry, but why on earth should that mean that it is not real?\u201d",
+        "autor": "J.K. ROWLING,",
+        "tags": "dumbledore"
+    },
+    {
+        "frase": "\u201cBeauty is in the eye of the beholder and it may be necessary from time to time to give a stupid or misinformed beholder a black eye.\u201d",
+        "autor": "JIM HENSON",
+        "tags": "humor"
+    },
+    {
+        "frase": "\u201cLife isn't about finding yourself. Life is about creating yourself.\u201d",
+        "autor": "GEORGE BERNARD SHAW",
+        "tags": "inspirational;life;yourself"
+    },
+    {
+        "frase": "\u201cToday you are You, that is truer than true. There is no one alive who is Youer than You.\u201d",
+        "autor": "DR. SEUSS,",
+        "tags": "comedy;life;yourself"
+    },
+    {
+        "frase": "\u201cIt is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all\u2014in which case, you fail by default.\u201d",
+        "autor": "J.K. ROWLING"
+    },
+    {
+        "frase": "\u201cTo the well-organized mind, death is but the next great adventure.\u201d",
+        "autor": "J.K. ROWLING,",
+        "tags": "death;dumbledore;harry;inspirational;philosophers-stone;ron;sorcerers-stone"
+    },
+    {
+        "frase": "\u201cI'm not afraid of death; I just don't want to be there when it happens.\u201d",
+        "autor": "WOODY ALLEN",
+        "tags": "death;fear;humor;life"
+    },
+    {
+        "frase": "\u201cIf one cannot enjoy reading a book over and over again, there is no use in reading it at all.\u201d",
+        "autor": "OSCAR WILDE",
+        "tags": "books;reading"
+    },
+    {
+        "frase": "\u201cIf you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.\u201d",
+        "autor": "ALBERT EINSTEIN",
+        "tags": "attributed-no-source;children;fairy-tales"
+    },
+    {
+        "frase": "\u201cHave you fallen in love with the wrong person yet?'",
+        "autor": "CASSANDRA CLARE,",
+        "tags": "city-of-bones;jace"
+    },
+    {
+        "frase": "\u201cI'm in love with you,\" he said quietly.",
+        "autor": "JOHN GREEN,",
+        "tags": "doomed;inevitable;love;oblivion;pleasure;simple"
+    },
+    {
+        "frase": "\u201cLogic will get you from A to Z; imagination will get you everywhere.\u201d",
+        "autor": "ALBERT EINSTEIN",
+        "tags": "attributed-no-source;imagination"
+    },
+    {
+        "frase": "\u201cWhenever I feel the need to exercise, I lie down until it goes away.\u201d",
+        "autor": "PAUL   TERRY",
+        "tags": "exercise;humor;laziness;misattributed-to-hutchins"
+    },
+    {
+        "frase": "\u201cI am nothing special, of this I am sure. I am a common man with common thoughts and I've led a common life. There are no monuments dedicated to me and my name will soon be forgotten, but I've loved another with all my heart and soul, and to me, this has always been enough..\u201d",
+        "autor": "NICHOLAS SPARKS,",
+        "tags": "love"
+    },
+    {
+        "frase": "\u201cSometimes people are beautiful.",
+        "autor": "MARKUS ZUSAK,",
+        "tags": "beauty;life"
+    },
+    {
+        "frase": "\u201cYou don't get to choose if you get hurt in this world...but you do have some say in who hurts you. I like my choices.\u201d",
+        "autor": "JOHN GREEN,",
+        "tags": "satisfaction;self-determination"
+    },
+    {
+        "frase": "\u201cThe truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.\u201d",
+        "autor": "BOB MARLEY",
+        "tags": "friendship"
+    },
+    {
+        "frase": "\u201cLove looks not with the eyes, but with the mind,",
+        "autor": "WILLIAM SHAKESPEARE,",
+        "tags": "love"
+    },
+    {
+        "frase": "\u201cThe more that you read, the more things you will know. The more that you learn, the more places you'll go.\u201d",
+        "autor": "DR. SEUSS,",
+        "tags": "learning;reading;seuss"
+    },
+    {
+        "frase": "\u201cFolks are usually about as happy as they make their minds up to be.\u201d",
+        "autor": "ABRAHAM LINCOLN",
+        "tags": "attributed-no-source;happiness"
+    },
+    {
+        "frase": "\u201cDo what you can, with what you have, where you are.\u201d",
+        "autor": "THEODORE ROOSEVELT",
+        "tags": "inspirational"
+    },
+    {
+        "frase": "\u201cThere is no friend as loyal as a book.\u201d",
+        "autor": "ERNEST HEMINGWAY",
+        "tags": "books;friends;novelist-quotes"
+    },
+    {
+        "frase": "\u201cOne good thing about music, when it hits you, you feel no pain.\u201d",
+        "autor": "BOB MARLEY",
+        "tags": "music"
+    },
+    {
+        "frase": "\u201cThe story so far:",
+        "autor": "DOUGLAS ADAMS,",
+        "tags": "humor;scifi"
+    },
+    {
+        "frase": "\u201cI find television very educating. Every time somebody turns on the set, I go into the other room and read a book.\u201d",
+        "autor": "GROUCHO MARX",
+        "tags": "books;humor;reading;television"
+    },
+    {
+        "frase": "\u201cSuccess is not final, failure is not fatal: it is the courage to continue that counts.\u201d",
+        "autor": "WINSTON S. CHURCHILL",
+        "tags": "bravery;courage;failure;inspirational;success"
+    },
+    {
+        "frase": "\u201cNot all of us can do great things. But we can do small things with great love.\u201d",
+        "autor": "MOTHER TERESA",
+        "tags": "misattributed-to-mother-teresa;paraphrased"
+    },
+    {
+        "frase": "\u201cLove is like the wind, you can't see it but you can feel it.\u201d",
+        "autor": "NICHOLAS SPARKS,",
+        "tags": "love;simile"
+    }
